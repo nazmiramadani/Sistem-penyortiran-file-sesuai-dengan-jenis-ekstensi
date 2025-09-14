@@ -21,6 +21,7 @@ Pada output pertama, cooding saya bisa menambahkan file dengan memilih pilihan 1
 **Tampilkan Daftar File == 2**
 
 <img width="836" height="457" alt="Screenshot 2025-09-14 221351" src="https://github.com/user-attachments/assets/f8157f58-759a-4a28-a28d-71d5a0b16813" />
+
 Pada output kedua, bisa menampilkan semua file yang ada dengan memilih pilihan 2
 
 **Edit Nama File == 3**
