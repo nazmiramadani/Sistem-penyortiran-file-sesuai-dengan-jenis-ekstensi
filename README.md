@@ -11,7 +11,7 @@
 <img width="1299" height="1313" alt="mini project1 drawio" src="https://github.com/user-attachments/assets/6516dd76-aa05-4c86-b9d0-c275fd68a3be" />
 
 
-# COODING
+# CODE
 <img width="1255" height="912" alt="Screenshot 2025-09-14 231843" src="https://github.com/user-attachments/assets/fa4d7727-16f6-4e09-b4aa-6a313c4048d6" />
 
 <img width="1292" height="910" alt="Screenshot 2025-09-14 231646" src="https://github.com/user-attachments/assets/d55a9797-fff9-4778-9cd4-a4f4fdef4815" />
