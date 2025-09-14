@@ -10,6 +10,14 @@
 # FLOWCHART
 <img width="1298" height="1213" alt="mini project drawio" src="https://github.com/user-attachments/assets/6057b803-8163-40fd-b4c9-a771c1f7700a" />
 
+# COODING
+<img width="1255" height="912" alt="Screenshot 2025-09-14 231843" src="https://github.com/user-attachments/assets/fa4d7727-16f6-4e09-b4aa-6a313c4048d6" />
+
+<img width="1292" height="910" alt="Screenshot 2025-09-14 231646" src="https://github.com/user-attachments/assets/d55a9797-fff9-4778-9cd4-a4f4fdef4815" />
+
+<img width="1316" height="894" alt="Screenshot 2025-09-14 231716" src="https://github.com/user-attachments/assets/8937be11-6cc3-4e4d-9b99-0b70fc2ff6be" />
+
+
 
 # OUTPUT 
 
