@@ -8,7 +8,8 @@
 **Mini Project 1**
 
 # FLOWCHART
-<img width="1298" height="1213" alt="mini project drawio" src="https://github.com/user-attachments/assets/6057b803-8163-40fd-b4c9-a771c1f7700a" />
+<img width="1299" height="1313" alt="mini project1 drawio" src="https://github.com/user-attachments/assets/6516dd76-aa05-4c86-b9d0-c275fd68a3be" />
+
 
 # COODING
 <img width="1255" height="912" alt="Screenshot 2025-09-14 231843" src="https://github.com/user-attachments/assets/fa4d7727-16f6-4e09-b4aa-6a313c4048d6" />
